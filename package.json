@@ -2,7 +2,7 @@
   "name": "ipfs-test",
   "version": "0.1.0",
   "engines": {
-    "node": "16.4.2"
+    "node": "16.10.0"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
